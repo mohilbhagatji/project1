@@ -60,6 +60,18 @@ a:hover {
     align-content: center;
     flex-direction: column;
 }
+.btn{
+    border: none;
+    outline: none;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: bisque;
+    font-size: 15px;
+    font-weight: 700;
+}
+.btn:hover{
+    background-color: blue;
+}
 
 .image {
     height: 60%;
